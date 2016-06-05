@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Added Path</ModName>
+  <ModDiscription>Another Path for the Game</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Added Path@Brick Path</OBJName>
+      <Type>PathStyle</Type>
+      <inGameName>Brick Path</inGameName>
+      <price>5</price>
+      <PathStyle>Normal</PathStyle>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+  </Objects>
+</Mod>
